@@ -1,0 +1,10 @@
+{
+  "name": "luiz-status-bar",
+  "version": "0.1.0",
+  "description": "Mod: barra acima do prompt com contexto, limites de 5h e 7d, custo e o turno em andamento.",
+  "author": { "name": "luizcunha3", "url": "https://github.com/luizcunha3" },
+  "types": "./types/index.d.ts",
+  "homepage": "https://github.com/luizcunha3/luiz-status-bar",
+  "repository": "https://github.com/luizcunha3/luiz-status-bar",
+  "license": "MIT"
+}

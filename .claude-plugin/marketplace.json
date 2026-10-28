@@ -1,0 +1,14 @@
+{
+  "name": "luiz-status-bar",
+  "owner": { "name": "luizcunha3", "url": "https://github.com/luizcunha3" },
+  "metadata": { "description": "Mods de Claude Code do luizcunha3." },
+  "plugins": [
+    {
+      "name": "luiz-status-bar",
+      "source": "./plugins/luiz-status-bar",
+      "description": "Mod: barra acima do prompt com contexto, limites de 5h e 7d, custo e o turno em andamento.",
+      "version": "0.1.0",
+      "category": "mod"
+    }
+  ]
+}
